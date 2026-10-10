@@ -1,6 +1,6 @@
 # sanger-fasta-merge
 
-Joins many Sanger FASTA files into one FASTA file. Sequences are copied as they are, in alphabetical order of the file names. Nothing is edited or reverse-complemented.
+Joins many Sanger FASTA files into one FASTA file. Sequences are copied as they are, in alphabetical order of the file names. Nothing is edited.
 
 ## Run
 
